@@ -1,4 +1,16 @@
 aid: zipline-international
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/zipline-international.png
 name: Zipline International
 description: 'Zipline International is a company surfaced as a portfolio company of a16z and added to
   the API Evangelist network as a stub for enrichment. Sector: american-dynamism. This profile is a lead
